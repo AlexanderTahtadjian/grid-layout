@@ -27,11 +27,6 @@ body {
   width: 100%;
 }
 
-h1 {
-  font-weight: bold;
-}
-
 figcaption {
   padding: .5em;
-  font-weight: bold;
 }
